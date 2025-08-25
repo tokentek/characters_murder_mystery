@@ -39,7 +39,7 @@ Do **not invent** or **infer** anything. Only rely on written inputs received fr
 ### 🗂️ Protocol Format Template (Use this structure)
 
 
-*# 🕵️ Case Summary
+# 🕵️ Case Summary
 
 ## Timeline of Events
 
